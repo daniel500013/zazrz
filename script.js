@@ -48,7 +48,7 @@ const questionsBackup = [
         "question": "Styl negocjacji opartych na zasadach cechuje:",
         "answers": [
             {"text": "Upieranie się przy stosowaniu obiektywnych kryteriów", "correct": true},
-            {"text": "Ustępowanie aby pielęgnować wzajemne stosunki", "correct": true},
+            {"text": "Ustępowanie aby pielęgnować wzajemne stosunki", "correct": false},
             {"text": "Wprowadzanie w błąd, co do dolnej granicy porozumienia", "correct": false},
             {"text": "Żądanie jednostronnych korzyści jako warunku zawarcia porozumienia", "correct": false}
         ]
@@ -276,7 +276,7 @@ let questions = [
         "question": "Styl negocjacji opartych na zasadach cechuje:",
         "answers": [
             {"text": "Upieranie się przy stosowaniu obiektywnych kryteriów", "correct": true},
-            {"text": "Ustępowanie aby pielęgnować wzajemne stosunki", "correct": true},
+            {"text": "Ustępowanie aby pielęgnować wzajemne stosunki", "correct": false},
             {"text": "Wprowadzanie w błąd, co do dolnej granicy porozumienia", "correct": false},
             {"text": "Żądanie jednostronnych korzyści jako warunku zawarcia porozumienia", "correct": false}
         ]
