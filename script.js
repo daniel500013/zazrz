@@ -12,7 +12,7 @@ const questionsBackup = [
         "question": "Karol Adamecki:",
         "answers": [
             {"text": "opracował naukowe metody mierzenia wydajności pracy", "correct": false},
-            {"text": "przyczynił się do rozwoju zasad funkcjonowania rynku", "correct": true},
+            {"text": "przyczynił się do rozwoju zasad funkcjonowania rynku", "correct": false},
             {"text": "sformułował prawo podziału pracy i wynikające z tego prawa specjalizacji", "correct": true},
             {"text": "był przedstawicielem naukowego zarządzania", "correct": false}
         ]
@@ -240,7 +240,7 @@ let questions = [
         "question": "Karol Adamecki:",
         "answers": [
             {"text": "opracował naukowe metody mierzenia wydajności pracy", "correct": false},
-            {"text": "przyczynił się do rozwoju zasad funkcjonowania rynku", "correct": true},
+            {"text": "przyczynił się do rozwoju zasad funkcjonowania rynku", "correct": false},
             {"text": "sformułował prawo podziału pracy i wynikające z tego prawa specjalizacji", "correct": true},
             {"text": "był przedstawicielem naukowego zarządzania", "correct": false}
         ]
