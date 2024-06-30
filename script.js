@@ -212,7 +212,7 @@ const questionsBackup = [
             {"text": "zdobyciu nowych klientów poprzez złamanie ich lojalności wobec poprzednich dostawców", "correct": true},
             {"text": "oferowaniu na starym rynku nowych lub zmodyfikowanych produktów", "correct": false},
             {"text": "wejściu z produktami na nowe, wcześniej nie obsługiwane segmenty rynku", "correct": false},
-            {"text": "zdobyciu nowych klientów, którzy do tej pory nie kupowali danego produktu", "correct": false}
+            {"text": "zdobyciu nowych klientów, którzy do tej pory nie kupowali danego produktu", "correct": true}
         ]
     },
     {
@@ -440,7 +440,7 @@ let questions = [
             {"text": "zdobyciu nowych klientów poprzez złamanie ich lojalności wobec poprzednich dostawców", "correct": true},
             {"text": "oferowaniu na starym rynku nowych lub zmodyfikowanych produktów", "correct": false},
             {"text": "wejściu z produktami na nowe, wcześniej nie obsługiwane segmenty rynku", "correct": false},
-            {"text": "zdobyciu nowych klientów, którzy do tej pory nie kupowali danego produktu", "correct": false}
+            {"text": "zdobyciu nowych klientów, którzy do tej pory nie kupowali danego produktu", "correct": true}
         ]
     },
     {
